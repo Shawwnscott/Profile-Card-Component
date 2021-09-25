@@ -1,0 +1,12 @@
+@media (max-width: 30em) {
+  body {
+    margin: 5rem auto;
+    padding: 1.6rem;
+  }
+}
+
+@media (max-width: 23.44em) {
+  body {
+    padding: 2.4rem;
+  }
+} ;
